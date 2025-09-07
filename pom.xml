@@ -16,12 +16,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <repositories>
+    <distributionManagement>
         <repository>
             <id>innowise-common</id>
             <url>https://maven.pkg.github.com/Vlad-Innowise/common-lib</url>
         </repository>
-    </repositories>
+    </distributionManagement>
 
     <dependencyManagement>
         <dependencies>
