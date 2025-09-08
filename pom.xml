@@ -18,7 +18,7 @@
 
     <distributionManagement>
         <repository>
-            <id>innowise-common</id>
+            <id>innowise-common-lib</id>
             <url>https://maven.pkg.github.com/Vlad-Innowise/common-lib</url>
         </repository>
     </distributionManagement>
